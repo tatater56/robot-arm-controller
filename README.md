@@ -1,5 +1,6 @@
 # robot arm controller app
 Mobile app, meant to control a robot arm over bluetooth
+
 Built with Dart/Flutter
 
 Project diagram:
